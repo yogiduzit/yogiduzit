@@ -8,7 +8,8 @@ I'm currently learning:
   - Node, GraphQL, Postgraphile
 - Front-end web development using React
 
-Ask me about: How Javascript is the best language?
+Ask me about: How Javascript is the best language?\
+
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogiduzit&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiduzit&layout=compact&langs_count=10&exclude_repo=Ocean-Defenders&hide=html,coffeescript,scss,css,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
