@@ -4,7 +4,7 @@ I am a Software Development student at BCIT with a passion for full-stack web de
 I'm currently learning:
 - Full stack development using .NET
 - RESTful API development using 
-  - JAX-RS
+  - Java EE, JAX-RS
   - Node, GraphQL, Postgraphile
 - Front-end development using React
 
