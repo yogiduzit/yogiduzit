@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I am a Software Development student at BCIT with a passion for full-stack web development projects.
-I'm currently learning:
-- Full stack development using .NET
-- RESTful API development using 
-  - Java EE, JAX-RS
-  - Node, GraphQL, Postgraphile
-- Front-end development using React
+I am a Software Developer with a passion for full-stack web development projects.
+I'm currently:
+- 🔭 Working on [AWS Honeycode](https://www.honeycode.aws/)
+- 🌱 Learning how to contribute to highly scalable React ecosystem
 
-Ask me about: How Javascript is the best programming language?
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/yogesh-k-verma/)
+- Ask me about: How Javascript is the best programming language?
 
 ![](https://komarev.com/ghpvc/?username=yogiduzit&color=ff0000)
 
