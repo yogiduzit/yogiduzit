@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am a Software Developer with a passion for full-stack web development projects.
-I'm currently:
+I am a Software Developer with a passion for full-stack web development projects.\
+**I'm currently:**
 - 🔭 Working on [AWS Honeycode](https://www.honeycode.aws/)
-- 🌱 Learning how to contribute to highly scalable React ecosystem
+- 🌱 Learning how to contribute to a highly scalable React ecosystem
 
-- Reach out to me on [LinkedIn](https://www.linkedin.com/in/yogesh-k-verma/)
-- Ask me about: How Javascript is the best programming language?
+
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/yogesh-k-verma/)\
+Ask me about: How Javascript is the best programming language?
 
 ![](https://komarev.com/ghpvc/?username=yogiduzit&color=ff0000)
 
