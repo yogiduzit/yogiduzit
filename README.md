@@ -7,5 +7,4 @@ I am a Software Developer with a passion for full-stack web development projects
 - 🌱 Learning about maintenance and scaling in a massive [React](https://reactjs.org/) ecosystem
 
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/yogesh-k-verma/)\
-Ask me about: **How Javascript is the best programming language?**
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/yogesh-k-verma/)
