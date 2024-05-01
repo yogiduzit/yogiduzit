@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am a Software Developer with a passion for full-stack web development projects. Currently, I am
-- 🕸 Interested in Blockchain, Crypto-currency and Web3
-- 🔭 Working @ [Amazon Honeycode](https://www.honeycode.aws/)
-- 🤝 Collaborating with Product & UX teams in an exciting low-code, no-code space
+I am a Frontend Engineer. Currently, I am
+- 🔭 Working @ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
+- 🤝 Collaborating with Product & UX teams in an exciting AI space
 - 🌱 Learning about maintenance and scaling in a massive [React](https://reactjs.org/) ecosystem
 
 
